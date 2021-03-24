@@ -1,8 +1,8 @@
-<h1 align="center">📺 Página de Filmes da Netflix</h1>
+<h1 align="center">🎥 Página de Filmes da Netflix</h1>
 <p align="center">
   <strong>App desenvolvido como forma de estudo sobre REACT</strong>
   <br>
-  <span>Clone da página de filmes da Netflix com suas respectivas categorias</span>
+  <span>Aplicativo criado para controle de filmes, separados por: Filmes para Assistir e Filmes Assistidos, armazenados Local Storage</span>
 </p>
 
 
@@ -10,7 +10,7 @@
 
 ### Site 💻
 
-- [Netflix](https://netflix-react-matheusdias20.vercel.app/)
+- [Controle de Filmes](https://controlmovies.netlify.app/)
 
 ## Biblioteca: 📙
 - REACT
