@@ -5,7 +5,9 @@
   <span>Clone da página de filmes da Netflix com suas respectivas categorias</span>
 </p>
 
-
+<p align="center">
+  <img src="img/home.jpeg" alt="">
+</p>
 
 
 ### Site 💻
